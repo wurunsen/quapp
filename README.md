@@ -46,8 +46,9 @@
 
 ![image.png](https://github.com/wurunsen/quapp/blob/main/image/wordfence_jieguo.jpg?raw=true)<br />分析—— 整体扫描：从scan中可以看出网站存在只存在**漏洞扫描问题，但是该问题是因为插件版本未更新所导致的，为确保网站插件与主题兼容，暂不考虑对此漏洞进行更新以免带来更多的隐患与问题。**
 ## 2.3网站性能
-> 使用site24x7
-
+> 使用site24x7添加了亚太地区的监视器
+响应速度尚可，服务器运行正常
+![s24x7](https://github.com/wurunsen/quapp/blob/main/image/SITE24X7.jpg?raw=true)
 - 
 
 ![image.png]()<br />![image.png]()
