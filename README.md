@@ -71,3 +71,5 @@ bing收录了老链接，未更新（2021/1/16）
 
 # 四、小程序
 ## 与凤凰新闻小程序对接成功
+## 提取码：fhxw 
+[视频链接](https://pan.baidu.com/s/1kKo-Z120m0ennc8ZHswCZg )
