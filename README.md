@@ -3,7 +3,7 @@
 
 - 站长：吴润森
 - 网站url：[https://www.xiaofanqie.club/](https://www.xiaofanqie.club/)
-- 内容来源：原创及转载
+- 内容来源：原创及转载（转载文末处有链接）
 
 
 
