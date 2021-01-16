@@ -16,7 +16,6 @@
 - 为用户提供更多的选择
 
 ### 1.2目标用户画像
-![画像](https://github.com/wurunsen/quapp/blob/main/image/userimg.jpeg?raw=true)
 ![img](https://github.com/wurunsen/quapp/blob/main/image/userimg.png?raw=true)
 ### 1.3网站规划
 | 前期 | 前期推荐app及相关新闻资讯 |  |
